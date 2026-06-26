@@ -451,7 +451,7 @@ export default function App() {
   };
 
   return (
-    <div id="crossword-app" className="min-h-screen w-full flex items-center justify-center bg-[#f4f8fc] p-2 sm:p-4 md:p-6 font-sans">
+    <div id="crossword-app" translate="no" className="notranslate min-h-screen w-full flex items-center justify-center bg-[#f4f8fc] p-2 sm:p-4 md:p-6 font-sans">
       
       {/* Outer High Density Blue Rounded Frame */}
       <div className="w-full max-w-6xl bg-white text-slate-900 font-sans p-4 md:p-6 overflow-hidden relative border-8 border-blue-900 rounded-[2rem] flex flex-col justify-between min-h-[90vh] shadow-2xl">
