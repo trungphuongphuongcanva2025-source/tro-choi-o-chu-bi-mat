@@ -1,0 +1,6 @@
+{
+  "name": "Trò chơi Ô chữ Bí mật",
+  "description": "Trò chơi ôn thi kiến thức thiết kế dưới dạng phiếu bài tập nhóm với lưới ô chữ động hoàn toàn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
